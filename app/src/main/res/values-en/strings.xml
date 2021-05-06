@@ -1,0 +1,30 @@
+<resources>
+	<string name="app_name" translatable="false">PrinterSetting</string>
+	<string name="pax_put_password_prompt">Please Input Password</string>
+	<string name="pax_password_cancle">Cancel</string>
+	<string name="pax_password_sure">Ok</string>
+	<string name="password_error">Password Error,Please Input Password Again!</string>
+
+	<string name="size_option_title">Please Select Printer Size</string>
+	<string name="size_option_selected">You Have Selected %1$s, Reboot Later...</string>
+	<string name="size_option_select_printer">Select Printer Size</string>
+	<string name="size_option_current_printer">Current Printer Size</string>
+	<string name="size_option_unit_inch">-inch</string>
+
+	<string name="reboot_confirm_title">Restart Confirmation</string>
+	<string name="reboot_confirm_message">You want to set the printer size to %1$s, Reboot to take effect, Are you sure to reboot?</string>
+	<string name="reboot_confirm_reboot">Reboot</string>
+	<string name="reboot_confirm_cancel">Cancel</string>
+
+	<string-array name="size_option_string">
+		<item name="size_option_two_inch">2-inch</item>
+		<item name="size_option_three_inch">3-inch</item>
+	</string-array>
+
+	<string-array name="size_option_values">
+		<item name="size_option_two_inch_values">2</item>
+		<item name="size_option_three_inch_values">3</item>
+	</string-array>
+
+
+</resources>

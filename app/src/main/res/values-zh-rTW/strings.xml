@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="pax_put_password_prompt">請輸入密碼</string>
+	<string name="pax_password_cancle">取消</string>
+	<string name="pax_password_sure">好的</string>
+	<string name="password_error">密碼錯誤，請再次輸入密碼！</string>
+	<string name="size_option_title">請選擇打印機大小</string>
+	<string name="size_option_selected">您已選擇%1$s，稍后重启...</string>
+	<string name="size_option_select_printer">選定的打印機大小</string>
+	<string name="size_option_current_printer">當前打印機大小</string>
+	<string name="size_option_unit_inch">寸</string>
+
+	<string name="reboot_confirm_title">重启确认</string>
+	<string name="reboot_confirm_message">你要设置打印机尺寸为%1$s，需要重启才生效，确定重启吗？</string>
+	<string name="reboot_confirm_reboot">重启</string>
+	<string name="reboot_confirm_cancel">取消</string>
+
+	<string-array name="size_option_string">
+		<item name="size_option_two_inch">2寸</item>
+		<item name="size_option_three_inch">3寸</item>
+	</string-array>
+
+	<string-array name="size_option_values">
+		<item name="size_option_two_inch_values">2</item>
+		<item name="size_option_three_inch_values">3</item>
+	</string-array>
+
+</resources>

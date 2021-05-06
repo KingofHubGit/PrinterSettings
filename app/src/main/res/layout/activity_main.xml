@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!--    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/size_option_current_printer"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />-->
+
+    <com.qmuiteam.qmui.widget.roundwidget.QMUIRoundButton
+        android:id="@+id/size_setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/size_option_select_printer"
+        android:textSize="30sp"
+        android:textColor="@color/text_color_gray_dark"
+        app:qmui_backgroundColor="@color/gray_light"
+        app:qmui_borderColor="@color/qmui_config_color_black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    </com.qmuiteam.qmui.widget.roundwidget.QMUIRoundButton>
+
+    <!--<com.qmuiteam.qmui.widget.roundwidget.QMUIRoundButton
+        android:id="@+id/size_setting2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/button_item_height"
+        android:text="@string/size_option_select_printer"
+        android:textSize="30sp"
+        app:layout_constraintLeft_toLeftOf="@id/size_setting"
+        app:layout_constraintRight_toRightOf="@id/size_setting"
+        app:layout_constraintTop_toBottomOf="@id/size_setting">
+    </com.qmuiteam.qmui.widget.roundwidget.QMUIRoundButton>-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

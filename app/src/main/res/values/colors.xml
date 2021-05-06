@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_translucence">#50000000</color>
+    <color name="black_translucence_dark">#60000000</color>
+    <color name="text_color_gray_dark">#3b3b3b</color>
+    <color name="gray_light">#e2e2e2</color>
+    <color name="sliver_gray">#545454</color>
+    <color name="essential_light_color">#238e23</color>
+    <color name="password_top_layout_color">#069e99</color>
+</resources>

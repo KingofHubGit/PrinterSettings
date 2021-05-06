@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="pax_put_password_prompt">يرجى إدخال كلمة السر</string>
+	<string name="pax_password_cancle">يلغي</string>
+	<string name="pax_password_sure">موافق</string>
+	<string name="password_error">خطأ كلمة المرور، يرجى إدخال كلمة المرور مرة أخرى!</string>
+	<string name="size_option_title">يرجى اختيار حجم الطابعة</string>
+	<string name="size_option_selected">قمت بتحديدها</string>
+	<string name="size_option_select_printer">حجم الطابعة المحددة</string>
+	<string name="size_option_current_printer">حجم الطابعة الحالية</string>
+	<string name="size_option_unit_inch">بوصة</string>
+	<string name="reboot_confirm_title">إعادة تشغيل التأكيد</string>
+	<string name="reboot_confirm_message">تريد تعيين حجم الطابعة إلى %1$s إعادة التشغيل لتصبح نافذة المفعول، هل أنت متأكد من إعادة التشغيل؟</string>
+	<string name="reboot_confirm_reboot">اعادة التشغيل</string>
+	<string name="reboot_confirm_cancel">يلغي</string>
+
+	<string-array name="size_option_string">
+		<item name="size_option_two_inch">2 بوصة</item>
+		<item name="size_option_three_inch">3 بوصة</item>
+	</string-array>
+
+</resources>
